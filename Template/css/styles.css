@@ -68,6 +68,10 @@
     --bs-body-bg: #fff;
 }
 
+.row{
+    justify-content: space-between;
+}
+
 *,
 *::before,
 *::after {
